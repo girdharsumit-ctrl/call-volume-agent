@@ -1,0 +1,9 @@
+# Chart images are created on every run
+output/
+
+# Python
+__pycache__/
+*.pyc
+
+# Never commit keys
+.env
